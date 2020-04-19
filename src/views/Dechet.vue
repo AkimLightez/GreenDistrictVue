@@ -2,7 +2,7 @@
   <b-row class="mt-5">
     <b-row class="mx-2 mt-5 justify-content-around">
       <b-card
-        class="col-10 mb-4 col-md-4"
+        class="col-10 mb-4 col-md-5"
         style="background-color: #eedada;"
         title=" Les bacs bleus/jaunes:"
       >
@@ -17,7 +17,7 @@
       </b-card>
 
       <b-card
-        class="col-10 mb-4 col-md-4"
+        class="col-10 mb-4 col-md-5"
         style="background-color: #eedada;"
         title="Les bacs vert ou gris:"
       >
